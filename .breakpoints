@@ -4,7 +4,7 @@
       {
         "id": "a0a0e0cb-7bce-4969-89b6-da3687948b00",
         "line": 1,
-        "version": 127,
+        "version": 293,
         "index": 0
       }
     ],
@@ -12,8 +12,24 @@
       {
         "id": "4e66514b-9911-42a2-a253-07313eadcd7c",
         "line": 11,
-        "version": 166,
+        "version": 184,
         "index": 141
+      }
+    ],
+    "programa_04.py": [
+      {
+        "id": "d53ae1b9-7daf-4224-a9fd-2751f84a75ef",
+        "line": 4,
+        "version": 154,
+        "index": 60
+      }
+    ],
+    "programa_06.py": [
+      {
+        "id": "40489b83-f960-4ea8-ae16-d3293ebaa767",
+        "line": 12,
+        "version": 97,
+        "index": 223
       }
     ]
   }
