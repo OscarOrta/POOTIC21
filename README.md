@@ -8,3 +8,5 @@
 7.programa_07.py - strings.3
 8.programa_08.py - condicionales 
 9.programa_09.py - condicionales .1
+10.programa_10.py
+11.programa_11.py
